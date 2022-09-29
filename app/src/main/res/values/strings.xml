@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Relative Siair</string>
+    <string-array name="array_nama">
+        <item>udin gaspol</item>
+        <item>asep jebret</item>
+        <item>jojon kentucky</item>
+        <item>yantokz</item>
+        <item>dadang</item>
+    </string-array>
 </resources>
